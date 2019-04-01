@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" title="app_name">Task Manager</string>
+    <string name="title_activity_main" title="title_activity_main">Task Manager</string>
+    <string name="tab_text_1" title="tab_text_1">Tasks</string>
+    <string name="tab_text_2" title="tab_text_2">Home</string>
+    <string name="tab_text_3" title="tab_text_3">Tab 3</string>
+    <string name="action_refresh" title="action_settings">Refresh</string>
+    <string name="section_format" title="section_format">Hello World from section: %1$d</string>
+    <string name="action_search" title="action_search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" title="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen" title="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button" title="dummy_button">Dummy Button</string>
+    <string name="dummy_content" title="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_splash_screen" title="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_details">Task Details</string>
+    <string name="task_add_image">Task Image</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_number">Task Number</string>
+    <string name="task_name">Task Name</string>
+</resources>

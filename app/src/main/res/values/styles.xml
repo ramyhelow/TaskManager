@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" title="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/gess_font</item>
+        <item name="colorPrimary" title="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark" title="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent" title="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" title="AppTheme.NoActionBar">
+        <item name="windowActionBar" title="windowActionBar">false</item>
+        <item name="windowNoTitle" title="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" title="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" title="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
